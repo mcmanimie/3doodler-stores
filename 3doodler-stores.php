@@ -7,8 +7,6 @@
  * Author: Ryan McManimie
  * Author URI: http://the3doodler.com
  * License: GPL2
- * GitHub Plugin URI: https://github.com/mcmanimie/3doodler-stores
- * GitHub Branch: master
  */
 
 define( 'DPSTO_ROOT', plugins_url( '', __FILE__ ) );
